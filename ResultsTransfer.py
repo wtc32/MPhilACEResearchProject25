@@ -2,7 +2,6 @@
 # Author: William Cope, wtc32
 # University: University of Cambridge - Department of Chemical Engineering and Biotechnology
 # Degree: MPhil in Advanced Chemical Engineering
-# Purpose: Minimal helpers to serialise experiment outputs into a run directory
 # Date: 2025-08-22
 #
 # Notes:
